@@ -1,4 +1,4 @@
-FuncionParte1{
+FuncionParte1{hola soy Miguel
 	codigo...
 }
 
@@ -6,7 +6,7 @@ FuncionParte2{
 	codigo...
 }
 
-FuncionParte3{
+FuncionParte3{prueba modificacion
 	codigo...
 }
 

@@ -11,11 +11,11 @@ FuncionParte3{
 }
 
 FuncionParte4{
-	codigo...
+	codigo...hola
 }
 
 FuncionParte5{
-	codigo...
+	codigo...adios
 }
 
 FuncionParte6{

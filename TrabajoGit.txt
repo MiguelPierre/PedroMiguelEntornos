@@ -3,11 +3,15 @@ FuncionParte1{
 }
 
 FuncionParte2{
-	codigo...
+	codigo... parte modficiada pedro
 }
 
 FuncionParte3{
+
 	codigo...modificacionaitor 
+
+	codigo...modificando la parte 3
+
 }
 
 FuncionParte4{
@@ -23,13 +27,13 @@ FuncionParte6{
 }
 
 FuncionParte7{
-	codigo...
+	codigo...parte modificada por pedro
 }
 
 FuncionParte8{
-	codigo...
+	codigo...parte modificada por Álvaro
 }
 
 FuncionParte9{
-	codigo...
+	codigo...edgar
 }

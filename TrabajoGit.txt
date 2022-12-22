@@ -11,7 +11,11 @@ FuncionParte2{
 }
 
 FuncionParte3{
+
+	codigo...modificacionaitor 
+
 	codigo...modificando la parte 3
+
 }
 
 FuncionParte4{

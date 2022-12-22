@@ -3,7 +3,7 @@ FuncionParte1{
 }
 
 FuncionParte2{
-	codigo...
+	codigo...edgar
 }
 
 FuncionParte3{

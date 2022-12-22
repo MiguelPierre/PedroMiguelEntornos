@@ -7,7 +7,7 @@ FuncionParte2{
 }
 
 FuncionParte3{
-	codigo...
+	codigo...modificando la parte 3
 }
 
 FuncionParte4{
@@ -31,5 +31,5 @@ FuncionParte8{
 }
 
 FuncionParte9{
-	codigo...
+	codigo...edgar
 }

@@ -27,7 +27,7 @@ FuncionParte7{
 }
 
 FuncionParte8{
-	codigo...
+	codigo...parte modificada por Álvaro
 }
 
 FuncionParte9{

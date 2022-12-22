@@ -3,7 +3,7 @@ FuncionParte1{
 }
 
 FuncionParte2{
-	codigo...
+	codigo... parte modficiada pedro
 }
 
 FuncionParte3{
@@ -23,7 +23,7 @@ FuncionParte6{
 }
 
 FuncionParte7{
-	codigo...
+	codigo...parte modificada por pedro
 }
 
 FuncionParte8{
